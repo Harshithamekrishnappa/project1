@@ -2,7 +2,6 @@
 <html>
     <head>
 <title>Events</title>
-<link rel="icon" href="img/date.png">
     </head>
 
     <body bgcolor="black" style="color: white;">
@@ -18,14 +17,12 @@
 
 </p>
 <center>
-<img src="img/event1.png">
 <h1>Photo Gallery</h1>
 <h2>Free Entry | Free Food | Pets are not Allowed</h2>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut asperiores laboriosam ullam aspernatur rem atque accusantium dicta error quasi aut, sit doloribus corrupti, a nisi veniam corporis et animi molestiae, unde autem ipsa? Aliquid dolores voluptate aperiam cumque sed cupiditate, quia ut similique debitis, esse tempore reprehenderit necessitatibus sapiente itaque?</p>
 </center>   
 
 <center>
-    <img src="img/event2.png">
     <h1>
         <a href="https://www.myntra.com/">Fashion store</a>
     </h1>
