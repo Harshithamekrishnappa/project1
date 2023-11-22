@@ -7,7 +7,7 @@
 
     <body bgcolor="black" style="color: white;">
      <center>   
-<h1>Upcoming Events 📅</h1>
+<h1>WELCOME 📅</h1>
 <p>Don't miss any of your important evsnts.Stay updated.</p>
 </center>
 
